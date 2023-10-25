@@ -1,0 +1,11 @@
+.mobileImg {
+  background-image: url("/src/images/bg-mobile-dark.jpg");
+}
+
+.desktopImg {
+  background-image: url("/src/images/bg-desktop-dark.jpg");
+}
+
+.custom-checkbox {
+  accent-color: red;
+}
